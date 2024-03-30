@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "inggay-absen",
+    "qrcode": "inggay-absen"
+  },
+  "targets": {},
+  "etags": {
+    "absensiqrcode-2862a": {
+      "extensionInstances": {}
+    },
+    "inggay-absen": {
+      "extensionInstances": {}
+    }
+  }
+}
